@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="routes">
+        <item>From Alqady Mosque To AlNasr Mosque</item>
+        <item>From Alhodawalnour School to Alsadeq Mosque</item>
+        <item>From Dakahlia Security Directorate to Engineering Faculty</item>
+    </string-array>
+
+    <string-array name="buses">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
